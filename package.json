@@ -6,6 +6,7 @@
     "build": "gridsome build"
   },
   "dependencies": {
+    "artalk": "^2.0.6",
     "artalk-v1": "https://github.com/ArtalkJS/Artalk#1.0.6",
     "gridsome": "^0.7.0"
   }
